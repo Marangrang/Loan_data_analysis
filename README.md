@@ -3,7 +3,7 @@
 This repository contains an analysis of a loan portfolio, focusing on metrics such as Write-Off Rate, Collections Rate, Gross Yield, and Days in Arrears. The analysis is performed using Python and Jupyter Notebooks.
 
 ## Project Structure
-- `data/`: Contains raw and processed data.
+- `data/`: data stored in a cloud storage.
 - `notebooks/`: Jupyter notebooks for data analysis and visualization.
 - `scripts/`: Python scripts for data cleaning, analysis, and visualization.
 - `reports/`: Analysis reports and figures.
